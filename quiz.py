@@ -9,7 +9,7 @@ pygame.init()
 # 2. Configuración de pantalla
 width, height = 600, 400
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Tren a toda velocidad - Versión Estable")
+pygame.display.set_caption("Quiz")
 
 # 3. Colores
 cielo = (75, 139, 225)
